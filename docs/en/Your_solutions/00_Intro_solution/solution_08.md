@@ -8,7 +8,7 @@ from x = 0 to x = π.
 
 ---
 
-## Solution:
+## Step 1:
 
 Using an integral:
 
@@ -17,7 +17,7 @@ Using an integral:
 The integral of sin(x) = −cos(x)
 
 ---
-
+## Step 2
 I'll calculate between 0 and π.
 
 So in normal integral the formula is this: F(b)−F(a)
@@ -30,13 +30,15 @@ upper limit = 0
 
 ---
 
-it is known:
+## Step 3
 
 cos(π) = −1
 
 cos(0) = 1
 
-So:
+---
+
+## Step 4
 
 −(−1) − (−1)
 
@@ -48,6 +50,7 @@ So:
 
 The grafic to show it clearly:
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/f32e9354-1c7f-402f-9341-a3a8418a87d0" />
+
 
 
 
