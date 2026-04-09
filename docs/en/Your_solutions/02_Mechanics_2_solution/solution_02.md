@@ -16,7 +16,7 @@ Find:
 
 ## Diagram
 
-![Harmonic Motion Diagram](diagram.png)
+<img width="605" height="304" alt="image" src="https://github.com/user-attachments/assets/f0c684af-c0a4-4f5b-b09e-286eff8d394c" />
 
 ---
 
