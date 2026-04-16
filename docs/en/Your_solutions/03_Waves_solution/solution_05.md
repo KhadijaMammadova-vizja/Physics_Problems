@@ -12,7 +12,7 @@ This is for the trip to the cliff **and back**, so the one-way distance is:
 
 d = 343 / 2 = 171.5 m
 
-### Final Answer:
+### The Answer:
 The cliff is **171.5 m** away.
 
 Diagram: 
