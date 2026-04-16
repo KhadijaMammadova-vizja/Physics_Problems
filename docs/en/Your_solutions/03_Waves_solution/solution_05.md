@@ -14,3 +14,7 @@ d = 343 / 2 = 171.5 m
 
 ### Final Answer:
 The cliff is **171.5 m** away.
+
+Diagram: 
+
+<img width="507" height="386" alt="Echo Diagram drawio (1)" src="https://github.com/user-attachments/assets/340dd05d-dd37-487f-83cb-6d20ca7f522e" />
