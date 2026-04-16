@@ -27,13 +27,3 @@ The speed of the wave on the string is:
 
 **v = 422.4 m/s**
 
-
-Node           Antinode           Node
-|-------------------------------|
- \                           /
-  \                         /
-   \_______________________/
-
-L = 64 cm
-λ = 2L = 1.28 m
-v = fλ = 330 × 1.28 = 422.4 m/s
