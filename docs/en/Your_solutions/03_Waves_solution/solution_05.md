@@ -17,4 +17,4 @@ The cliff is **171.5 m** away.
 
 Diagram: 
 
-<img width="507" height="386" alt="Echo Diagram drawio (1)" src="https://github.com/user-attachments/assets/340dd05d-dd37-487f-83cb-6d20ca7f522e" />
+<img width="509" height="388" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e0cec9b6-6557-409e-8654-f59f71dcf669" />
