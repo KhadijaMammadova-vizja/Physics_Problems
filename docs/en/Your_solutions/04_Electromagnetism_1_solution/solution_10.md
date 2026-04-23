@@ -1,67 +1,47 @@
-## 10. Induced EMF (Faraday’s Law)
+## 8. Lorentz Force
 
-A circular loop of radius $r = 0.10\,\text{m}$ is placed in a magnetic field that changes uniformly from $0.20\,\text{T}$ to $0$ in $0.50\,\text{s}$. Find the induced EMF in the loop.
-
----
-
-### Step 1: Use Faraday’s Law
-
-The induced EMF is given by:
+### Step 1: The formula for magnetic force on a wire
 
 $$
-\mathcal{E} = \left| \frac{d\Phi_B}{dt} \right|
+F = BIL\sin\theta
 $$
 
-Magnetic flux:
+where:
+
+- $B = 0.20\,\text{T}$
+- $I = 10\,\text{A}$
+- $L = 0.50\,\text{m}$
+- $\theta = 90^\circ$
 
 $$
-\Phi_B = BA
+\sin 90^\circ = 1
 $$
 
 So,
 
 $$
-\mathcal{E} = A \left| \frac{dB}{dt} \right|
+F = BIL
 $$
 
 ---
 
-### Step 2: Calculate the area of the loop
+### Step 2: Substitute the values
 
 $$
-A = \pi r^2 = \pi (0.10)^2 = 0.01\pi\,\text{m}^2
+F = (0.20)(10)(0.50)
 $$
 
----
-
-### Step 3: Compute the rate of change of magnetic field
-
 $$
-\frac{dB}{dt} = \frac{0 - 0.20}{0.50} = -0.40\,\text{T/s}
-$$
-
-Take magnitude:
-
-$$
-\left| \frac{dB}{dt} \right| = 0.40\,\text{T/s}
+F = 1.0\,\text{N}
 $$
 
 ---
 
-### Step 4: Compute the EMF
+### The Answer
 
 $$
-\mathcal{E} = (0.01\pi)(0.40)
+\boxed{F = 1.0\,\text{N}}
 $$
 
-$$
-\mathcal{E} = 0.004\pi \approx 1.26 \times 10^{-2}\,\text{V}
-$$
+<img width="1122" height="540" alt="image" src="https://github.com/user-attachments/assets/3001b525-4aa7-48bc-8e1c-04907795699b" />
 
----
-
-### Final Answer
-
-$$
-\boxed{\mathcal{E} \approx 1.26 \times 10^{-2}\,\text{V}}
-$$
