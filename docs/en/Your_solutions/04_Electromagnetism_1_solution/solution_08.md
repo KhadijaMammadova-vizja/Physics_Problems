@@ -45,8 +45,11 @@ $$
 
 ---
 
-### Final Answer
+### The Answer
 
 $$
 \boxed{F = 1.0\,\text{N}}
 $$
+
+<img width="1122" height="540" alt="image" src="https://github.com/user-attachments/assets/3001b525-4aa7-48bc-8e1c-04907795699b" />
+
