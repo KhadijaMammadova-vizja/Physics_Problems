@@ -1,6 +1,4 @@
-## 8. Magnetic Force on a Current-Carrying Wire
-
-A straight wire of length $L = 0.50\,\text{m}$ carries a current $I = 10\,\text{A}$ in a uniform magnetic field $B = 0.20\,\text{T}$. The wire is perpendicular to the field. Find the magnetic force on the wire.
+## 8. Lorentz Force
 
 ---
 
