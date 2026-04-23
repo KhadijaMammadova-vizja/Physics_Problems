@@ -4,7 +4,7 @@ A charged particle with charge $q = 2 \times 10^{-19}\,\text{C}$ and mass $m = 4
 
 ---
 
-### Step 1: Use the magnetic force formula for a moving charge
+### Step 1: The magnetic force formula for a moving charge
 
 The magnetic force on a charged particle is
 
