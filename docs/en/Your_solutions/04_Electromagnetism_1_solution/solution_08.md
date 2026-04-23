@@ -2,8 +2,6 @@
 
 ### Step 1: The formula for magnetic force on a wire
 
-The magnetic force on a straight current-carrying wire is
-
 $$
 F = BIL\sin\theta
 $$
@@ -14,8 +12,6 @@ where:
 - $I = 10\,\text{A}$
 - $L = 0.50\,\text{m}$
 - $\theta = 90^\circ$
-
-Since the wire is perpendicular to the field,
 
 $$
 \sin 90^\circ = 1
