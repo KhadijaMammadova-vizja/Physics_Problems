@@ -1,9 +1,5 @@
 ## 8. Lorentz Force
 
-A charged particle with charge $q = 2 \times 10^{-19}\,\text{C}$ and mass $m = 4 \times 10^{-27}\,\text{kg}$ enters a magnetic field of $B = 0.5\,\text{T}$ at a speed of $v = 10^6\,\text{m/s}$, perpendicular to the field. Find the magnitude of the Lorentz force acting on the particle.
-
----
-
 ### Step 1: The magnetic force formula for a moving charge
 
 The magnetic force on a charged particle is
