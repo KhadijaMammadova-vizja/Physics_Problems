@@ -1,47 +1,65 @@
 ## 8. Lorentz Force
 
-### Step 1: The formula for magnetic force on a wire
+A charged particle with charge $q = 2 \times 10^{-19}\,\text{C}$ and mass $m = 4 \times 10^{-27}\,\text{kg}$ enters a magnetic field of $B = 0.5\,\text{T}$ at a speed of $v = 10^6\,\text{m/s}$, perpendicular to the field. Find the magnitude of the Lorentz force acting on the particle.
+
+---
+
+### Step 1: Use the magnetic force formula for a moving charge
+
+The magnetic force on a charged particle is
 
 $$
-F = BIL\sin\theta
+F = qvB\sin\theta
 $$
 
-where:
-
-- $B = 0.20\,\text{T}$
-- $I = 10\,\text{A}$
-- $L = 0.50\,\text{m}$
-- $\theta = 90^\circ$
+Since the particle moves **perpendicular** to the magnetic field,
 
 $$
+\theta = 90^\circ
+\quad \text{and} \quad
 \sin 90^\circ = 1
+$$
+
+So the formula becomes
+
+$$
+F = qvB
+$$
+
+---
+
+### Step 2: Substitute the given values
+
+$$
+F = (2 \times 10^{-19})(10^6)(0.5)
+$$
+
+---
+
+### Step 3: Calculate
+
+First multiply the ordinary numbers:
+
+$$
+2 \times 0.5 = 1
+$$
+
+Now combine the powers of 10:
+
+$$
+10^{-19} \times 10^6 = 10^{-13}
 $$
 
 So,
 
 $$
-F = BIL
+F = 1 \times 10^{-13}\,\text{N}
 $$
 
 ---
 
-### Step 2: Substitute the values
+### Final Answer
 
 $$
-F = (0.20)(10)(0.50)
+\boxed{F = 1.0 \times 10^{-13}\,\text{N}}
 $$
-
-$$
-F = 1.0\,\text{N}
-$$
-
----
-
-### The Answer
-
-$$
-\boxed{F = 1.0\,\text{N}}
-$$
-
-<img width="1122" height="540" alt="image" src="https://github.com/user-attachments/assets/3001b525-4aa7-48bc-8e1c-04907795699b" />
-
