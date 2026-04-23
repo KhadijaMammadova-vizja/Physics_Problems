@@ -1,7 +1,5 @@
 ## 8. Lorentz Force
 
----
-
 ### Step 1: Use the formula for magnetic force on a wire
 
 The magnetic force on a straight current-carrying wire is
