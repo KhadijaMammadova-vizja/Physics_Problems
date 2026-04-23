@@ -1,4 +1,4 @@
-## 8. Lorentz Force
+## 10. Lorentz Force
 
 ### Step 1: The formula for magnetic force on a wire
 
